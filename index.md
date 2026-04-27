@@ -6,7 +6,7 @@ layout: default
 # COMP110 Exercise 09 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<final-project/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="<final-project/static/imgs/prom_pic.png" alt="Image of Me. "  width="500"/>
 
 ## About Me
 
